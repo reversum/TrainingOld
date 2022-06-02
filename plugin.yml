@@ -1,0 +1,9 @@
+name: LobbySystem
+version: 1.0
+author: Yannik
+main: de.yannik.main.Main
+
+commands:
+  changepoint:
+  settings:
+  spawn:
